@@ -12,7 +12,7 @@ I am the Sobey Professor of Economics at Saint Mary's University. My research br
 
 I also serve as [Faculty in Residence](https://www.smu.ca/sobey/about/dr-yigit-aydede.html) at the Sobey School of Business and as an [Affiliate Scientist (Research)](https://innovationhub.nshealth.ca/partnering-nova-scotia-health-innovation-hub/scientific-affiliate-appointments) at Nova Scotia Health, contributing to interdisciplinary collaborations in health and social sciences.
 
-Beyond academia, I am the co-founder of [Novastorms.ai](https://novastorms.ai), an AI-driven startup providing real estate, neighborhood, and public safety insights in Nova Scotia. Our Agentic AI applications leverage advanced analytics to empower businesses, policymakers, and the public with real-time and historical data.
+Beyond academia, I am the co-founder of [Novastorms.ai](https://novastorms.ai), an AI-driven startup providing **In-House Insights**: AI-Powered Data and Document Analytics Platform. In-House Insights combines cutting-edge AI with enterprise-grade security to deliver unparalleled analytics capabilities. Our Agentic AI applications leverage advanced analytics to empower businesses, policymakers, and the public with real-time and historical data.
 
 ---
 
