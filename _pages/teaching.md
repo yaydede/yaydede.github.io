@@ -6,9 +6,12 @@ author_profile: true
 
 ### MBAN 5560 - Machine Learning & Artificial Intelligence 
 [Master of Business Analytics](https://www.smu.ca/mban/index.html), January 2025
+
+### MBAN 5520 - Statistics and Predictive Modelling
+[Master of Business Analytics](https://www.smu.ca/mban/index.html), October 2025
   
 ### MFIN 6603 - Applied Statistics & Data Anaytics
-[Master of Finance](https://www.smu.ca/academics/sobey/master-of-finance.html), November 2024
+[Master of Finance](https://www.smu.ca/academics/sobey/master-of-finance.html), November 2025
 
 ### ECON 4403 - Econometrics
 Since 2012
