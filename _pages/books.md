@@ -20,7 +20,7 @@ Most ML books optimize prediction and stop there. Most causal inference texts st
 
 If you’re a graduate student, applied researcher, or practitioner who wants to use modern ML methods without losing the causal framework, this book was written for you.
 
-🌐 Free HTML version: [Online version](https://www.causalmlbook.com)  
+🌐 Free HTML version: [Online version](https://www.causalmlbook.com)
 📖 Order: [CRC Press](https://www.routledge.com/Causal-Inference-and-Machine-Learning-In-Economics-Social-and-Health-Sciences/Yuksel-Aydede/p/book/9781032820415?srsltid=AfmBOopW63ASNNjXuqQkYb7ApbjjjJ5QIOLmD2pv3iIY2cc_UmhoeXIs)
 
 ## Machine Learning Toolbox for Social Scientists: Applied Predictive Analytics with R -September 2023
