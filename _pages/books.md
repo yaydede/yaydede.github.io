@@ -21,7 +21,7 @@ Most ML books optimize prediction and stop there. Most causal inference texts st
 If you’re a graduate student, applied researcher, or practitioner who wants to use modern ML methods without losing the causal framework, this book was written for you.
 
 🌐 Free HTML version: [Online version](https://www.causalmlbook.com)  
-📖 Pre-order: [CRC Press](https://www.routledge.com/Causal-Inference-and-Machine-Learning-In-Economics-Social-and-Health-Sciences/Yuksel-Aydede/p/book/9781032820415?srsltid=AfmBOopW63ASNNjXuqQkYb7ApbjjjJ5QIOLmD2pv3iIY2cc_UmhoeXIs)
+📖 Order: [CRC Press](https://www.routledge.com/Causal-Inference-and-Machine-Learning-In-Economics-Social-and-Health-Sciences/Yuksel-Aydede/p/book/9781032820415?srsltid=AfmBOopW63ASNNjXuqQkYb7ApbjjjJ5QIOLmD2pv3iIY2cc_UmhoeXIs)
 
 ## Machine Learning Toolbox for Social Scientists: Applied Predictive Analytics with R -September 2023
 The "causal inference" is the traditional framework for most statistics courses in social science and business fields, especially in Economics and Finance. As I tried to look at “prediction” from economists’ perspective, the book has become a “toolbox” that many social science and business students can follow and understand predictive methods beyond standard machine learning “code” applications. The book offers a new organization that helps students and faculty a smooth transition from "Inferential Statistics" to novel "prediction" methods. This transition starts with the first few sections, which offer a window where a traditional training in inferential statistics meets with data analytics that focuses on prediction. 
