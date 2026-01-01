@@ -5,21 +5,29 @@ excerpt: "Toolbox"
 author_profile: true
 ---
 
-## About this book
-The book covers predictive methods with complementary statistical “tools” that make it self-contained.  This website is where I plan to include R/Python codes, suplementary applications, errata, and various new chapters.
+## Causal Inference and Machine Learning: In Economics, Social, and Health Sciences - December 2025
+This book was born out of a frustration we kept hearing—especially from strong applied researchers.
+  
+“I understand causal inference.”  
+“I understand machine learning.”  
+“But no one explains clearly how to use ML for causal questions.”  
+  
+Most ML books optimize prediction and stop there. Most causal inference texts stop before modern ML enters the picture. This book sits deliberately in between.
+
+What we tried to do differently:
+  
+- Treat machine learning as a tool, not a goal 
+- Be explicit about when prediction helps causal inference—and when it doesn’t 
+- Show methods under the hood with transparent R code, not black boxes 
+- Keep the focus on policy-relevant questions in economics, health, and social sciences 
+
+If you’re a graduate student, applied researcher, or practitioner who wants to use modern ML methods without losing the causal framework, this book was written for you.
+
+🌐 Free HTML version: [](https://www.causalmlbook.com)
+📖 Pre-order: [CRC Press](https://www.routledge.com/Causal-Inference-and-Machine-Learning-In-Economics-Social-and-Health-Sciences/Yuksel-Aydede/p/book/9781032820415?srsltid=AfmBOopW63ASNNjXuqQkYb7ApbjjjJ5QIOLmD2pv3iIY2cc_UmhoeXIs)
+
+## Machine Learning Toolbox for Social Scientists: Applied Predictive Analytics with R -September 2023
+The "causal inference" is the traditional framework for most statistics courses in social science and business fields, especially in Economics and Finance. As I tried to look at “prediction” from economists’ perspective, the book has become a “toolbox” that many social science and business students can follow and understand predictive methods beyond standard machine learning “code” applications. The book offers a new organization that helps students and faculty a smooth transition from "Inferential Statistics" to novel "prediction" methods. This transition starts with the first few sections, which offer a window where a traditional training in inferential statistics meets with data analytics that focuses on prediction. 
 
 A draft version can be accessed here: [Toolbox](https://yaydede.github.io/toolbox/)  
-[Machine Learning Toolbox for Social Scientists: Applied Predictive Analytics with R](https://www.amazon.ca/Machine-Learning-Toolbox-Social-Scientists/dp/1032463953) (Chapman & Hall/CRC, 2023)
-
-
-## Who is this book for?
-The "causal inference" is the traditional framework for most statistics courses in social science and business fields, especially in Economics and Finance. As I tried to look at “prediction” from economists’ perspective, the book has become a “toolbox” that many social science and business students can follow and understand predictive methods beyond standard machine learning “code” applications. 
-The book offers a new organization that helps students and faculty a smooth transition from "Inferential Statistics" to novel "prediction" methods. This transition starts with the first few sections, which offer a window where a traditional training in inferential statistics meets with data analytics that focuses on prediction.     
-
-This book is targeted at *motivated* students and researchers who have a background in inferential statistics using parametric models. It is applied because I skip many theoretical proofs and justifications that can easily be found elsewhere. I do not assume a previous experience with R but some familiarity with coding.
-
-Contributions from the community are more than welcome! If you notice something is missing or notice an issue in the book (e.g., typos or problems with the material), please don’t hesitate to reach out. 
-
-
-
-
+[Machine Learning Toolbox for Social Scientists: Applied Predictive Analytics with R](https://www.amazon.ca/Machine-Learning-Toolbox-Social-Scientists/dp/1032463953) 
