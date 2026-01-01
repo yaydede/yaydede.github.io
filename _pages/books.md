@@ -5,7 +5,7 @@ excerpt: "Books"
 author_profile: true
 ---
 
-## Causal Inference and Machine Learning: In Economics, Social, and Health Sciences - December 2025
+## Causal Inference and Machine Learning: In Economics, Social, and Health Sciences - December 2025 (with Dr. Yuksel)
 This book was born out of a frustration we kept hearing—especially from strong applied researchers.  
 “I understand causal inference.”  
 “I understand machine learning.”  
