@@ -1,7 +1,7 @@
 ---
-permalink: /Toolbox/
+permalink: /Books/
 title: "Books on Data Analytics"
-excerpt: "Toolbox"
+excerpt: "Books"
 author_profile: true
 ---
 
