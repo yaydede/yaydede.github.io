@@ -19,7 +19,7 @@ Beyond academia, I am the co-founder of [Novastorms.ai](https://novastorms.ai), 
 ## Featured Work
 
 - **[Machine Learning Toolbox for Social Scientists: Applied Predictive Analytics with R](https://www.amazon.ca/Machine-Learning-Toolbox-Social-Scientists/dp/1032463953)** (Chapman & Hall/CRC, 2023)
-- **[Causal Inference and Machine Learning In Economics, Social, and Health Sciences](https://www.routledge.com/Causal-Inference-and-Machine-Learning-In-Economics-Social-and-Health-Sciences/Yuksel-Aydede/p/book/9781032820415?srsltid=AfmBOopW63ASNNjXuqQkYb7ApbjjjJ5QIOLmD2pv3iIY2cc_UmhoeXIs)** (Taylor & Francis, Forthcoming December 2025)
+- **[Causal Inference and Machine Learning In Economics, Social, and Health Sciences](https://www.routledge.com/Causal-Inference-and-Machine-Learning-In-Economics-Social-and-Health-Sciences/Yuksel-Aydede/p/book/9781032820415?srsltid=AfmBOopW63ASNNjXuqQkYb7ApbjjjJ5QIOLmD2pv3iIY2cc_UmhoeXIs)** (Taylor & Francis, December 31, 2025)
 - **Research Portal on Machine Learning for Social and Health Policies**: Organizing workshops and summer schools on AI applications ([MLPortal](https://yaydede.github.io/MLPortal/))
 
 ---
