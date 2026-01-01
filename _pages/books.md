@@ -6,15 +6,12 @@ author_profile: true
 ---
 
 ## Causal Inference and Machine Learning: In Economics, Social, and Health Sciences - December 2025
-This book was born out of a frustration we kept hearing—especially from strong applied researchers.
-  
+This book was born out of a frustration we kept hearing—especially from strong applied researchers.  
 “I understand causal inference.”  
 “I understand machine learning.”  
 “But no one explains clearly how to use ML for causal questions.”  
   
-Most ML books optimize prediction and stop there. Most causal inference texts stop before modern ML enters the picture. This book sits deliberately in between.
-
-What we tried to do differently:
+Most ML books optimize prediction and stop there. Most causal inference texts stop before modern ML enters the picture. This book sits deliberately in between. What we tried to do differently:
   
 - Treat machine learning as a tool, not a goal 
 - Be explicit about when prediction helps causal inference—and when it doesn’t 
@@ -23,7 +20,7 @@ What we tried to do differently:
 
 If you’re a graduate student, applied researcher, or practitioner who wants to use modern ML methods without losing the causal framework, this book was written for you.
 
-🌐 Free HTML version: [](https://www.causalmlbook.com)
+🌐 Free HTML version: [Online version](https://www.causalmlbook.com)  
 📖 Pre-order: [CRC Press](https://www.routledge.com/Causal-Inference-and-Machine-Learning-In-Economics-Social-and-Health-Sciences/Yuksel-Aydede/p/book/9781032820415?srsltid=AfmBOopW63ASNNjXuqQkYb7ApbjjjJ5QIOLmD2pv3iIY2cc_UmhoeXIs)
 
 ## Machine Learning Toolbox for Social Scientists: Applied Predictive Analytics with R -September 2023
