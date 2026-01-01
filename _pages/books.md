@@ -1,5 +1,5 @@
 ---
-permalink: /Books/
+permalink: /books/
 title: "Books on Data Analytics"
 excerpt: "Books"
 author_profile: true
