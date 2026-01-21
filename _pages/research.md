@@ -7,9 +7,9 @@ author_profile: true
 Please see the full list of my publications at [my Google Scholar profile](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en)
 
 ## Books
-- **[Machine Learning Toolbox for Social Scientists: Applied Predictive Analytics with R](https://www.amazon.ca/Machine-Learning-Toolbox-Social-Scientists/dp/1032463953)** (Chapman & Hall/CRC, 2023)
-- **Causal Machine Learning for Econometrics** (Taylor & Francis, expected 2025)
-   
+- **[Causal Inference and Machine Learning In Economics, Social, and Health Sciences](https://www.routledge.com/Causal-Inference-and-Machine-Learning-In-Economics-Social-and-Health-Sciences/Yuksel-Aydede/p/book/9781032820415?srsltid=AfmBOopW63ASNNjXuqQkYb7ApbjjjJ5QIOLmD2pv3iIY2cc_UmhoeXIs)** (Taylor & Francis, December 31, 2025)
+- **[Machine Learning Toolbox for Social Scientists: Applied Predictive Analytics with R](https://www.amazon.ca/Machine-Learning-Toolbox-Social-Scientists/dp/1032463953)** (Chapman & Hall/CRC, October 2023)
+  
 
   
 ## Selective publications
